@@ -5,6 +5,8 @@ import Login from "./pages/login/Login";
 import New from "./pages/new/New";
 import Single from "./pages/Single/Single";
 
+import "react-circular-progressbar/dist/styles.css";
+
 function App() {
   return (
     <div className="App">

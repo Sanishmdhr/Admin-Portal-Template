@@ -1,5 +1,5 @@
 import React from "react";
-import "./home.scss";
+import "./single.scss";
 const Single = () => {
   return <div className="home">Single</div>;
 };
